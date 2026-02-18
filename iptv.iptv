@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-UPDATED: 2026-02-18 17:24:28
-#EXTINF:-1 group-title="Update",更新时间: 2026-02-18 17:24:28
 http://127.0.0.1/
 #EXTINF:-1 group-title="IPTV",CCTV1
 http://221.205.232.23:9003/hls/1/index.m3u8
